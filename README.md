@@ -4,6 +4,6 @@
 
 - 💻 React Front-End and NodeJS FullStack Engineer / Novice in Web3
 - 📍 Shanghai, China
-- 🙎‍♂️ I have worked for over 7 years. Well, and I'm good at solving problems and quite self-motivated. My main tech stack is JS full-stack.
+- ✈️ Open to remote work opportunities
 
 ![SPxiaomin's github stats](https://github-readme-stats.vercel.app/api?username=SPxiaomin&show_icons=true)
